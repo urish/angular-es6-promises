@@ -1,0 +1,21 @@
+{
+	"name": "angular-es6-promises",
+	"version": "0.1.0",
+	"description": "ECMAScript 6 promises for Angular.JS",
+	"main": "./angular-es6-promises.js",
+	"author": "Uri Shaked",
+	"license": "MIT",
+	"homepage": "https://github.com/urish/angular-es6-promises",
+	"ignore": [
+	],
+	"dependencies": {
+		"angular": ">=1.0.0 <1.4.0"
+	},
+	"devDependencies": {
+		"angular-mocks": ">=1.0.0 <1.3.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/urish/angular-es6-promises.git"
+	}
+}
